@@ -23,6 +23,8 @@
 <a href="https://twitter.com/AnchitaRamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AnchitaRamani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anchitaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anchitaram" height="30" width="40" /></a>
 <a href="https://leetcode.com/Anchita15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anchita15" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__tanyarajpal__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/anchita_ramani/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anchita_ramani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tanya933" height="30" width="40" /></a>
 </p>
 
 <br />
