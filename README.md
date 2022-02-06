@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anchita15&label=Profile%20views&color=0e75b6&style=flat" alt="Anchita15" /> </p>
 ## I'm a Student, Coder, Developer, Creator, and Mentor!
 - ✍ You can find my projects here [https://anchita15.github.io/my_portfolio/]
 - 📫 How to reach me **anchitaram@gmail.com**
