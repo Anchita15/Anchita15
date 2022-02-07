@@ -43,16 +43,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 📊 Some Fun Stats:
+| ![image](https://github-readme-stats.vercel.app/api?username=Anchita15&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchita15&theme=midnight-purple) | 
+| --- | --- |
 
-  <img align="left" alt="Anchita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anchita15&show_icons=true&hide_border=true" />
 
-</details>
+[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=Anchita15&theme=react-dark)](https://github.com/Anchita15)
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anchita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchita15" />
-
-</details>
