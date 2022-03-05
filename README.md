@@ -11,12 +11,14 @@
 
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning Backend and Azure.
-- 👯 I’m looking to collaborate on open source.
+- 👯 I’m open source contributor.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 2 languages ( English, Hindi)
 
 <br />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anchita15&theme=algolia&column=7&no-bg=tr&no-frame=true" alt="Anchita15" /></a> </p>
 
 ### 💻 Check this OUT!
 
